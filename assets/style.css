@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #blue;
+    background-color: #d9dcd6;
 }
 
 .header {
@@ -20,8 +20,8 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #gray;
+.seo {
+    color: #d9dcd6;
 }
 
 .header nav {
